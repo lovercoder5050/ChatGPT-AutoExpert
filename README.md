@@ -1,12 +1,3 @@
-# ChatGPT AutoExpert
-by Dustin Miller • [Reddit](https://www.reddit.com/u/spdustin) • [Substack](https://spdustin.substack.com)
-
-**License**: [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-_Elevating Conversational AI to Expert Level_
-
-***
-
 ## ❇️ NEW ❇️
 I've created a set of "Custom GPTs" with updated versions of these prompts:
 - [AutoExpert v6 (Chat)](https://chat.openai.com/g/g-LQHhJCXhW-autoexpert-chat)
